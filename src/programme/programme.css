@@ -1,0 +1,26 @@
+#programme {
+  height: 100vh;
+  padding-top: 10vh;
+  display: block;
+}
+#mardi {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #f9d5bb;
+}
+#mardititle {
+  text-align: left;
+}
+#cardmardi {
+  background-color: #9c5845;
+}
+img {
+  width: 30rem;
+}
+
+#jeudi {
+  width: 50%;
+  height: 20vh;
+}

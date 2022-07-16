@@ -1,0 +1,16 @@
+#formulaire {
+  height: 100vh;
+  padding-top: 10vh;
+}
+
+.textformulaire {
+  background-color: #9c5845;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 10rem;
+  color: #ffeecc;
+  margin-bottom: 5vh;
+}

@@ -1,0 +1,32 @@
+.navbar {
+  background-image: url(https://zupimages.net/up/22/28/uy81.jpg);
+  color: yellow;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: #ffeecc;
+  font-weight: bold;
+  margin-left: 1vw;
+  margin-right: 1vw;
+}
+
+#accueil {
+  height: 100vh;
+  padding-top: 10vh;
+}
+
+.backacc {
+  background-image: url(https://zupimages.net/up/22/28/uy81.jpg);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 10rem;
+  color: #ffeecc;
+  margin-bottom: 5vh;
+}
+
+#title {
+  color: #9c5845;
+}
