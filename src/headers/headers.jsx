@@ -38,7 +38,7 @@ function Headers() {
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">
+              <a class="nav-link" href="#info">
                 Infos pratiques
               </a>
             </li>

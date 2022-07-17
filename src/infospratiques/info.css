@@ -1,0 +1,13 @@
+#info {
+  height: 100vh;
+  padding-top: 8vh;
+  display: block;
+}
+#align {
+  text-align: center;
+
+  color: #f9d5bb;
+  background-color: #9c5845;
+
+  border-radius: 5px;
+}

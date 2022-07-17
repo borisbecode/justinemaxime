@@ -6,6 +6,7 @@ import Accueil from "./Accueil/accueil";
 import Lieu from "./Lieu/Lieu";
 import Formulaire from "./formulaire/formulaire";
 import Programme from "./programme/Programme";
+import Infos from "./infospratiques/Infos";
 function App() {
   return (
     <div className="App">
@@ -14,6 +15,7 @@ function App() {
       <Lieu></Lieu>
       <Formulaire></Formulaire>
       <Programme></Programme>
+      <Infos></Infos>
     </div>
   );
 }

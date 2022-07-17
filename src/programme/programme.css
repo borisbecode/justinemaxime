@@ -1,8 +1,15 @@
 #programme {
   height: 100vh;
-  padding-top: 10vh;
+  padding-top: 8vh;
   display: block;
 }
+
+@media only screen and (max-width: 1000px) {
+  #programme {
+    height: auto;
+  }
+}
+
 #mardi {
   text-align: center;
   display: flex;
@@ -15,12 +22,26 @@
 }
 #cardmardi {
   background-color: #9c5845;
+  color: #f9d5bb;
+  border-radius: 5px;
 }
 img {
   width: 30rem;
 }
 
-#jeudi {
-  width: 50%;
-  height: 20vh;
+#cardleft {
+  width: 66.5vw;
+
+  border-radius: 5px;
+}
+#flamandrose {
+  height: 25vh;
+  border-radius: 5px;
+}
+.mid {
+  margin-top: 5vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
