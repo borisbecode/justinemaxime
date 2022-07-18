@@ -1,7 +1,6 @@
 import React from "react";
 import "./programme.css";
 import Card from "react-bootstrap/Card";
-import Button from "react-bootstrap/Button";
 
 function Programme() {
   return (
@@ -20,9 +19,9 @@ function Programme() {
                 src="https://zupimages.net/up/22/28/3tc0.jpg"
               />
               <Card.Body>
-                <Card.Title id="mardititle">Mardi 30 aout</Card.Title>
+                <Card.Title id="mardititle">Mardi 30 août</Card.Title>
                 <Card.Text>
-                  - 17h Cérémonie laique <br></br>- 18h30 Cocktail & diner{" "}
+                  - 17h Cérémonie laïque <br></br>- 18h30 Cocktail & diner{" "}
                   <br></br>- Soirée
                 </Card.Text>
               </Card.Body>
@@ -35,7 +34,7 @@ function Programme() {
                 src="https://zupimages.net/up/22/28/hn7n.jpg"
               />
               <Card.Body>
-                <Card.Title id="mardititle">Mercredi 31 aout</Card.Title>
+                <Card.Title id="mardititle">Mercredi 31 août</Card.Title>
                 <Card.Text>
                   - 12h Brunch <br></br>- Apres midi baignade & chill <br></br>-
                   Barbecue & Soirée

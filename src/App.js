@@ -7,15 +7,17 @@ import Lieu from "./Lieu/Lieu";
 import Formulaire from "./formulaire/formulaire";
 import Programme from "./programme/Programme";
 import Infos from "./infospratiques/Infos";
+import Cagnotte from "./cagnotte/cagnotte";
 function App() {
   return (
     <div className="App">
       <Headers></Headers>
       <Accueil></Accueil>
-      <Lieu></Lieu>
-      <Formulaire></Formulaire>
       <Programme></Programme>
+      <Formulaire></Formulaire>
+      <Lieu></Lieu>
       <Infos></Infos>
+      <Cagnotte></Cagnotte>
     </div>
   );
 }

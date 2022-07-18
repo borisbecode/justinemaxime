@@ -24,7 +24,7 @@ function Accueil() {
             <Card.Text className="backacc">
               <h4>
                 Avec leur famille, <br></br> Justine & Maxime, <br></br> Vous
-                invite a celebrer leur mariage{" "}
+                invite à celebrer leur mariage, <br></br> le 30 août 2022
               </h4>
             </Card.Text>
           </Card>

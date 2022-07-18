@@ -11,3 +11,22 @@
 
   border-radius: 5px;
 }
+#alignbus {
+  text-align: center;
+
+  color: #9c5845;
+  background-color: #ffffff;
+  border: #9c5845 solid 3px;
+
+  border-radius: 5px;
+}
+
+@media only screen and (max-width: 1000px) {
+  #fabien {
+    display: flex;
+    text-align: left;
+  }
+  #info {
+    height: auto;
+  }
+}

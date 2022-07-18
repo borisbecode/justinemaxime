@@ -18,8 +18,19 @@ function Headers() {
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
           <ul class="navbar-nav mx-auto">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">
+              <a class="nav-link active" aria-current="page" href="#accueil">
                 Accueil
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#programme">
+                Programme
+              </a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#formulaire">
+                Formulaire
               </a>
             </li>
             <li class="nav-item">
@@ -28,23 +39,13 @@ function Headers() {
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#formulaire">
-                Formulaire
-              </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#programme">
-                Programme
-              </a>
-            </li>
-            <li class="nav-item">
               <a class="nav-link" href="#info">
                 Infos pratiques
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">
-                Cagnotte
+              <a class="nav-link" href="#cagnotte">
+                Noces
               </a>
             </li>
           </ul>

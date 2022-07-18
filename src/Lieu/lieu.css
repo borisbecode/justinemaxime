@@ -4,6 +4,21 @@
   display: block;
 }
 
+@media only screen and (max-width: 1000px) {
+  #domainepictures {
+    height: 20vh;
+  }
+  #maps {
+    margin-top: 2vh;
+  }
+
+  /*  #photodomaine {
+    background-image: url(https://zupimages.net/up/22/29/vesg.jpg);
+    background-size: cover;
+    height: 10vh;
+  } */
+}
+
 #lieu {
   background-color: #9c5845;
   padding-bottom: 3%;
@@ -15,10 +30,18 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #f9d5bb;
+  color: #9c5845;
 }
+
+/* #photodomaine {
+  background-image: url(https://zupimages.net/up/22/29/vesg.jpg);
+  background-size: cover;
+  height: 30rem;
+} */
 
 #button {
   background-image: url(https://zupimages.net/up/22/28/uy81.jpg);
   color: #ffeecc;
+  border: #f9d5bb;
+  border-radius: 5px;
 }

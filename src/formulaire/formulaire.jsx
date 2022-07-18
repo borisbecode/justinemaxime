@@ -28,13 +28,19 @@ function Formulaire() {
             <Card.Text>
               <h4>
                 Pour notre organisation,
-                <br></br> Merci de remplir le formulaire avant le xx/xx/xx
+                <br></br> Merci de remplir le formulaire,
                 <br></br> en cliquant sur le bouton ci-dessous
               </h4>
             </Card.Text>
-            <button id="button" type="button" class="btn mb-1">
-              Le formulaire
-            </button>
+            <a
+              target="_blank"
+              id="button"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdwidkIZEIEIeNOmj5EdC5lF9rGOey3cZ-ukA_2A26aDjGFrg/viewform?fbclid=IwAR2cYgV7BltdoNV0zf6Ik0FXcUC0Zth_1LoOXmVt2n8YlN0EWlPxSO-gxiQ"
+            >
+              <button id="button" type="button" class="btn btn-info">
+                Le formulaire
+              </button>
+            </a>
           </Card>
         </div>
         <div class="row justify-content-center mt-5 ">

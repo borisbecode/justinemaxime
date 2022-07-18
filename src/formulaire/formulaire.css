@@ -18,3 +18,9 @@
 .card {
   border: #9c5845 1px solid;
 }
+
+@media only screen and (max-width: 1000px) {
+  #formulaire {
+    height: auto;
+  }
+}
