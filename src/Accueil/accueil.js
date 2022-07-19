@@ -9,6 +9,7 @@ function Accueil() {
         <div class="row justify-content-center mt-5 ">
           {" "}
           <Card
+            id="card"
             className="card"
             style={{ width: "30rem", margin: "0", padding: "0" }}
           >
@@ -18,12 +19,13 @@ function Accueil() {
             />
           </Card>
         </div>
-        <div id="card" class="row justify-content-center mt-5 ">
+        <div class="row justify-content-center mt-5 ">
           {" "}
-          <Card style={{ width: "30rem", margin: "0", padding: "0" }}>
+          <Card id="card" style={{ width: "30rem", margin: "0", padding: "0" }}>
             <Card.Text className="backacc">
-              <h4>
-                Avec leur famille, <br></br> Justine & Maxime, <br></br> Vous
+              <h4 id="insidecard">
+                Avec leur famille, <br></br>{" "}
+                <span id="ecriture">Justine & Maxime </span> <br></br> Vous
                 invitent à celebrer leur mariage, <br></br> le 30 août 2022
               </h4>
             </Card.Text>

@@ -8,12 +8,12 @@
 
   color: #f9d5bb;
   background-color: #9c5845;
-
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   border-radius: 5px;
 }
 #alignbus {
   text-align: center;
-
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   color: #9c5845;
   background-color: #ffffff;
   border: #9c5845 solid 3px;

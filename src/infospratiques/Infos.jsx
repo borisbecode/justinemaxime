@@ -9,7 +9,7 @@ import { AiOutlineHome } from "react-icons/ai";
 function Infos() {
   return (
     <>
-      <div id="info" class="container-fluid mt-5">
+      <div id="info" class="container-fluid ">
         <div id="title" class="row justify-content-center">
           {" "}
           <h2>Infos pratiques</h2>
@@ -76,8 +76,8 @@ function Infos() {
               <div class="text-start">
                 {" "}
                 <h6>
-                  - Apres le train ou l'avion prendre la ligne de bus :{" "}
-                  <br></br>
+                  <p> - Apres le train ou l'avion prendre la ligne de bus : </p>
+
                   <br></br>
                   <p class="justify-content-center text-center mt-2">
                     N°603-604 : <span></span> Montpellier <FaMapSigns /> Béziers
@@ -120,7 +120,9 @@ function Infos() {
               <br></br>
               <div class="text-start">
                 {" "}
-                <h6>- Pour ceux qui dorment sur le domaine :</h6>
+                <h6>
+                  <p>- Pour ceux qui dorment sur le domaine :</p>
+                </h6>
                 <p class="justify-content-center text-center mt-2">
                   Draps et serviettes fournis
                 </p>
@@ -137,7 +139,7 @@ function Infos() {
                 id="button"
                 href="http://www.domainedelagrangette.fr/chambre-d-hotes.html"
               >
-                <button id="button" type="button" class="btn btn-info">
+                <button id="button" type="button" class="btn btn-info mb-3">
                   Plus d'informations ici
                 </button>
               </a>

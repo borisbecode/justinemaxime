@@ -5,7 +5,7 @@ import Card from "react-bootstrap/Card";
 function Programme() {
   return (
     <>
-      <div id="programme" class="container-fluid ">
+      <div id="programme" class="container-fluid  ">
         <div id="title" class="row justify-content-center">
           {" "}
           <h2>Le programme</h2>

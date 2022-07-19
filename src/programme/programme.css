@@ -19,11 +19,13 @@
 }
 #mardititle {
   text-align: left;
+  font-weight: 800;
 }
 #cardmardi {
   background-color: #9c5845;
   color: #f9d5bb;
   border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
 img {
   width: 30rem;
@@ -31,7 +33,7 @@ img {
 
 #cardleft {
   width: 66.5vw;
-
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   border-radius: 5px;
 }
 #flamandrose {

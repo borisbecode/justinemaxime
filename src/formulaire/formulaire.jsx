@@ -15,6 +15,7 @@ function Formulaire() {
         <div class="row justify-content-center mt-3 ">
           {" "}
           <Card
+            id="card"
             className="textformulaire"
             style={{
               width: "50rem",
@@ -46,6 +47,7 @@ function Formulaire() {
         <div class="row justify-content-center mt-5 ">
           {" "}
           <Card
+            id="card"
             className="card"
             style={{ width: "50rem", margin: "0", padding: "0" }}
           >
