@@ -8,6 +8,7 @@ import Formulaire from "./formulaire/formulaire";
 import Programme from "./programme/Programme";
 import Infos from "./infospratiques/Infos";
 import Cagnotte from "./cagnotte/cagnotte";
+
 function App() {
   return (
     <div className="App">

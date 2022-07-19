@@ -3,11 +3,19 @@
   background-position: 70%;
 }
 
-.navbar-nav .nav-item .nav-link {
+#navbarnew1 {
   color: #ffeecc;
-  font-weight: bold;
+  font-weight: bold !important ;
+}
+#navbarnew {
+  color: #ffeecc;
+  font-weight: bold !important ;
   margin-left: 1vw;
   margin-right: 1vw;
+}
+
+.nav {
+  color: green;
 }
 
 #accueil {

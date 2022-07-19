@@ -83,7 +83,7 @@ function Infos() {
                     N°603-604 : <span></span> Montpellier <FaMapSigns /> Béziers
                   </p>
                   <p class="justify-content-center text-center mt-2">
-                    Arret Montagnac centre{" "}
+                    Arrêt Montagnac centre{" "}
                   </p>
                   <p class="justify-content-center text-center mt-2">
                     Durée +- 1 heure

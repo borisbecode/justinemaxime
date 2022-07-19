@@ -36,7 +36,7 @@ function Programme() {
               <Card.Body>
                 <Card.Title id="mardititle">Mercredi 31 août</Card.Title>
                 <Card.Text>
-                  - 12h Brunch <br></br>- Apres midi baignade & chill <br></br>-
+                  - 12h Brunch <br></br>- Après-midi baignade & chill <br></br>-
                   Barbecue & Soirée
                 </Card.Text>
               </Card.Body>
